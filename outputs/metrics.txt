@@ -1,0 +1,23 @@
+============================================================
+Ames House Price Prediction - Model Evaluation Report
+============================================================
+
+                                 Model Polynomials SelectKBest       R2          MAE          MSE         RMSE      CV RMSE
+              Linear Regression (Base)          No          No 0.704926 18350.909439 1.629910e+09 40372.141941 26104.822367
+              Ridge Regression (Tuned)          No          No 0.918223 15339.822042 4.517164e+08 21253.620800 23110.088898
+              Lasso Regression (Tuned)          No          No 0.918417 15182.559893 4.506426e+08 21228.343810 23679.021099
+Linear Regression + Poly + SelectKBest         Yes        k=50 0.867547 19271.656762 7.316332e+08 27048.718286 27118.762556
+    Ridge + Poly + SelectKBest (Tuned)         Yes        k=50 0.869189 19246.227536 7.225665e+08 26880.597631 26807.446179
+    Lasso + Poly + SelectKBest (Tuned)         Yes        k=50 0.864397 19456.473259 7.490315e+08 27368.440758 26787.282744
+
+============================================================
+BEST PERFORMING MODEL DETAILS
+============================================================
+Model Name: Lasso Regression (Tuned)
+Polynomial Features: No
+Feature Selection: No
+Validation R2: 0.91842
+Validation MAE: $15182.56
+Validation RMSE: $21228.34
+Cross-Validation RMSE: $23679.02
+============================================================

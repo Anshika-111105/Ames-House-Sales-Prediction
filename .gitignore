@@ -14,11 +14,11 @@ env/
 ENV/
 
 # Data and models (large / binary files)
-house-price-prediction/data/*.csv
-house-price-prediction/models/*.pkl
+data/*.csv
+models/*.pkl
 
 # Outputs
-house-price-prediction/outputs/predictions.csv
+outputs/predictions.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
