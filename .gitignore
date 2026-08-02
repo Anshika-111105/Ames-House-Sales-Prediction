@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Data and models (large / binary files)
+house-price-prediction/data/*.csv
+house-price-prediction/models/*.pkl
+
+# Outputs
+house-price-prediction/outputs/predictions.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
