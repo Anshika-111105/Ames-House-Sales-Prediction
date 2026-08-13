@@ -20,14 +20,14 @@ def make_predictions() -> None:
     print("House Price Prediction - Inference Pipeline")
     print("=" * 60)
     
-    if not config.MODEL_PATH.exists():
-        print(f"Error: Saved model pipeline not found at {config.MODEL_PATH}.", file=sys.stderr)
+    if not config.BEST_PIPELINE_JOBLIB.exists():
+        print(f"Error: Saved model pipeline not found at {config.BEST_PIPELINE_JOBLIB}.", file=sys.stderr)
         print("Please run train.py first to train and save the model.", file=sys.stderr)
         sys.exit(1)
         
-    print(f"Loading trained model pipeline from {config.MODEL_PATH}...")
+    print(f"Loading trained model pipeline from {config.BEST_PIPELINE_JOBLIB}...")
     try:
-        pipeline = joblib.load(config.MODEL_PATH)
+        pipeline = joblib.load(config.BEST_PIPELINE_JOBLIB)
         print("Successfully loaded model pipeline.")
     except Exception as e:
         print(f"Error loading model pipeline: {e}", file=sys.stderr)

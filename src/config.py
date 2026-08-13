@@ -17,6 +17,13 @@ OUTPUT_DIR = BASE_DIR / "outputs"
 METRICS_PATH = OUTPUT_DIR / "metrics.txt"
 PREDICTIONS_PATH = OUTPUT_DIR / "predictions.csv"
 
+# Required project deliverables
+MODEL_COMPARISON_CSV = OUTPUT_DIR / "model_comparison.csv"
+PREDICTION_SAMPLES_CSV = OUTPUT_DIR / "prediction_samples.csv"
+RESIDUAL_PLOT_PNG = OUTPUT_DIR / "residual_plot.png"
+BEST_PIPELINE_JOBLIB = OUTPUT_DIR / "best_house_price_pipeline.joblib"
+BUSINESS_INTERPRETATION_MD = OUTPUT_DIR / "business_interpretation.md"
+
 
 TARGET_COL = "SalePrice"
 ID_COL = "Id"
