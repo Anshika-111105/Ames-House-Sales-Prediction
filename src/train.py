@@ -14,6 +14,7 @@ if str(project_root) not in sys.path:
 import src.config as config
 import src.utils as utils
 import src.regression_pipeline as rp
+import src.kpi_metrics as kpi_metrics
 
 def train_and_evaluate() -> None:
     """
@@ -344,6 +345,9 @@ Based on the Lasso model coefficients, the top 5 positive drivers of property va
         save_path=config.OUTPUT_DIR / "model_comparison.png"
     )
     print("Saved model comparison plot to outputs/model_comparison.png")
+    
+    print("\nRunning Business KPI Evaluation...")
+    kpi_metrics.run_kpi_analysis()
 
 if __name__ == "__main__":
     try:

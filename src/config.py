@@ -23,6 +23,11 @@ PREDICTION_SAMPLES_CSV = OUTPUT_DIR / "prediction_samples.csv"
 RESIDUAL_PLOT_PNG = OUTPUT_DIR / "residual_plot.png"
 BEST_PIPELINE_JOBLIB = OUTPUT_DIR / "best_house_price_pipeline.joblib"
 BUSINESS_INTERPRETATION_MD = OUTPUT_DIR / "business_interpretation.md"
+BUSINESS_KPIS_JSON = OUTPUT_DIR / "business_kpis.json"
+BUSINESS_KPI_REPORT_MD = OUTPUT_DIR / "business_kpi_report.md"
+BUSINESS_KPI_DASHBOARD_PNG = OUTPUT_DIR / "business_kpi_dashboard.png"
+RECOMMENDATIONS_CSV = OUTPUT_DIR / "property_recommendations.csv"
+RECOMMENDATION_REPORT_MD = OUTPUT_DIR / "recommendation_report.md"
 
 
 TARGET_COL = "SalePrice"

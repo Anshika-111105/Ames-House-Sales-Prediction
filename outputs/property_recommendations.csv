@@ -1,0 +1,293 @@
+PropertyIndex,ActualSalePrice,PredictedFairValue,DollarSpread,PercentageSpread,Action,RiskLevel,DecisionRecommendation
+1322,190000.0,241990.78269981057,51990.782699810574,27.363569842005564,STRONG BUY,Low,"Undervalued by 27.4% ($51,991 upside). Acquire immediately below model fair value of $241,991."
+837,100000.0,90098.69008052029,-9901.30991947971,-9.90130991947971,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.9%). Standard mortgage underwriting and acquisition approved.
+413,115000.0,95341.36324660221,-19658.63675339779,-17.094466742085036,PASS / NEGOTIATE,High,"Overpriced by 17.1% (Overpayment risk: $19,659). Do not purchase at ask price. Submit counter-offer capped at $93,435."
+522,159000.0,173676.6515206753,14676.65152067531,9.230598440676294,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.2%). Standard mortgage underwriting and acquisition approved.
+1036,315500.0,325740.182182875,10240.182182874996,3.245699582527733,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.2%). Standard mortgage underwriting and acquisition approved.
+615,137500.0,158325.33963599752,20825.339635997516,15.145701553452739,STRONG BUY,Low,"Undervalued by 15.1% ($20,825 upside). Acquire immediately below model fair value of $158,325."
+218,311500.0,229722.43909948732,-81777.56090051268,-26.252828539490423,PASS / NEGOTIATE,High,"Overpriced by 26.3% (Overpayment risk: $81,778). Do not purchase at ask price. Submit counter-offer capped at $225,128."
+1032,310000.0,302408.91772491805,-7591.08227508195,-2.448736217768371,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.4%). Standard mortgage underwriting and acquisition approved.
+1289,281000.0,303266.8474419139,22266.84744191391,7.924144997122387,FAIR VALUE,Moderate,Priced at fair market value (spread: +7.9%). Standard mortgage underwriting and acquisition approved.
+887,135500.0,147932.11303247535,12432.113032475347,9.174991167878485,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.2%). Standard mortgage underwriting and acquisition approved.
+577,164500.0,160675.73577853624,-3824.26422146376,-2.324780681740888,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.3%). Standard mortgage underwriting and acquisition approved.
+1251,171750.0,193282.8127747774,21532.812774777412,12.537300014426442,STRONG BUY,Low,"Undervalued by 12.5% ($21,533 upside). Acquire immediately below model fair value of $193,283."
+1191,174000.0,173979.88794885058,-20.11205114942277,-0.011558650085875154,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.0%). Standard mortgage underwriting and acquisition approved.
+568,316600.0,283970.1990017928,-32629.80099820718,-10.306317434683255,PASS / NEGOTIATE,High,"Overpriced by 10.3% (Overpayment risk: $32,630). Do not purchase at ask price. Submit counter-offer capped at $278,291."
+1108,181000.0,169823.8192314088,-11176.180768591206,-6.174685507508953,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.2%). Standard mortgage underwriting and acquisition approved.
+853,158000.0,187473.7364074682,29473.736407468212,18.654263549030514,STRONG BUY,Low,"Undervalued by 18.7% ($29,474 upside). Acquire immediately below model fair value of $187,474."
+168,183500.0,188166.05878115495,4666.0587811549485,2.542811324880081,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.5%). Standard mortgage underwriting and acquisition approved.
+1102,135000.0,131994.95041201427,-3005.0495879857335,-2.22596265776721,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.2%). Standard mortgage underwriting and acquisition approved.
+1119,133700.0,120218.04856592536,-13481.95143407464,-10.083733308956349,PASS / NEGOTIATE,High,"Overpriced by 10.1% (Overpayment risk: $13,482). Do not purchase at ask price. Submit counter-offer capped at $117,814."
+67,226000.0,217214.75951503706,-8785.240484962938,-3.8872745508685567,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.9%). Standard mortgage underwriting and acquisition approved.
+1042,196000.0,201933.614948329,5933.614948328992,3.0273545654739755,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.0%). Standard mortgage underwriting and acquisition approved.
+453,210000.0,196493.11647991603,-13506.883520083968,-6.431849295278081,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.4%). Standard mortgage underwriting and acquisition approved.
+670,173500.0,176143.17779553845,2643.177795538446,1.5234454152959342,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.5%). Standard mortgage underwriting and acquisition approved.
+1173,200500.0,270555.366171614,70055.36617161398,34.94033225516907,STRONG BUY,Low,"Undervalued by 34.9% ($70,055 upside). Acquire immediately below model fair value of $270,555."
+192,192000.0,197284.22059787504,5284.220597875043,2.752198228059918,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.8%). Standard mortgage underwriting and acquisition approved.
+123,153900.0,143686.18116286444,-10213.818837135565,-6.636659413343447,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.6%). Standard mortgage underwriting and acquisition approved.
+415,181134.0,193908.8415504606,12774.84155046061,7.052702171022894,FAIR VALUE,Moderate,Priced at fair market value (spread: +7.1%). Standard mortgage underwriting and acquisition approved.
+277,141000.0,100925.10396350274,-40074.89603649726,-28.42191208262217,PASS / NEGOTIATE,High,"Overpriced by 28.4% (Overpayment risk: $40,075). Do not purchase at ask price. Submit counter-offer capped at $98,907."
+433,181000.0,175472.5291139132,-5527.470886086812,-3.0538513182800067,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.1%). Standard mortgage underwriting and acquisition approved.
+1170,171000.0,164326.64834891746,-6673.351651082543,-3.90254482519447,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.9%). Standard mortgage underwriting and acquisition approved.
+184,127000.0,122261.96032598778,-4738.039674012223,-3.730739900797026,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.7%). Standard mortgage underwriting and acquisition approved.
+555,113000.0,107702.35083961973,-5297.6491603802715,-4.688185097681656,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.7%). Standard mortgage underwriting and acquisition approved.
+1188,195000.0,187468.39717671665,-7531.602823283349,-3.862360422196589,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.9%). Standard mortgage underwriting and acquisition approved.
+76,135750.0,111778.46745539269,-23971.53254460731,-17.65858750983964,PASS / NEGOTIATE,High,"Overpriced by 17.7% (Overpayment risk: $23,972). Do not purchase at ask price. Submit counter-offer capped at $109,543."
+906,255000.0,241415.46962021245,-13584.530379787553,-5.327266815602962,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+1024,287000.0,297092.56448479206,10092.564484792063,3.5165729912167465,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.5%). Standard mortgage underwriting and acquisition approved.
+1285,132500.0,131621.549729268,-878.4502707319916,-0.662981336401503,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.7%). Standard mortgage underwriting and acquisition approved.
+374,219500.0,204820.97629650714,-14679.023703492858,-6.687482325053693,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.7%). Standard mortgage underwriting and acquisition approved.
+1448,112000.0,106066.22497718141,-5933.7750228185905,-5.298013413230884,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+259,97000.0,114375.87979023333,17375.87979023333,17.91327813426117,STRONG BUY,Low,"Undervalued by 17.9% ($17,376 upside). Acquire immediately below model fair value of $114,376."
+51,114500.0,120024.899871667,5524.899871667003,4.825240062591269,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.8%). Standard mortgage underwriting and acquisition approved.
+244,205000.0,231503.62073878257,26503.62073878257,12.92859548233296,STRONG BUY,Low,"Undervalued by 12.9% ($26,504 upside). Acquire immediately below model fair value of $231,504."
+1101,119500.0,109037.70098118493,-10462.299018815072,-8.755061940431023,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.8%). Standard mortgage underwriting and acquisition approved.
+582,118500.0,83983.46427338324,-34516.535726616756,-29.127878250309497,PASS / NEGOTIATE,High,"Overpriced by 29.1% (Overpayment risk: $34,517). Do not purchase at ask price. Submit counter-offer capped at $82,304."
+679,128500.0,129989.5080221576,1489.5080221576063,1.1591502117958026,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.2%). Standard mortgage underwriting and acquisition approved.
+758,179400.0,168048.8639384667,-11351.136061533296,-6.32727762627274,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.3%). Standard mortgage underwriting and acquisition approved.
+1014,119200.0,113526.79446428744,-5673.205535712565,-4.759400617208527,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.8%). Standard mortgage underwriting and acquisition approved.
+49,127000.0,134587.5248822303,7587.5248822302965,5.974429041126218,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.0%). Standard mortgage underwriting and acquisition approved.
+592,138000.0,137914.2882147349,-85.71178526509902,-0.06210998932253553,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.1%). Standard mortgage underwriting and acquisition approved.
+966,160000.0,158504.02179478138,-1495.9782052186201,-0.9349863782616377,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.9%). Standard mortgage underwriting and acquisition approved.
+1248,129500.0,159221.13254458315,29721.132544583146,22.950681501608607,STRONG BUY,Low,"Undervalued by 23.0% ($29,721 upside). Acquire immediately below model fair value of $159,221."
+1279,68400.0,76141.07485300819,7741.074853008191,11.317360896210806,STRONG BUY,Low,"Undervalued by 11.3% ($7,741 upside). Acquire immediately below model fair value of $76,141."
+490,115000.0,106970.60579629178,-8029.394203708216,-6.982081916268014,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.0%). Standard mortgage underwriting and acquisition approved.
+1336,135000.0,135073.1299180735,73.12991807350772,0.0541703096840798,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.1%). Standard mortgage underwriting and acquisition approved.
+811,144500.0,160432.12111080694,15932.12111080694,11.025689350039405,STRONG BUY,Low,"Undervalued by 11.0% ($15,932 upside). Acquire immediately below model fair value of $160,432."
+141,260000.0,246536.48464354925,-13463.51535645075,-5.178275137096442,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.2%). Standard mortgage underwriting and acquisition approved.
+846,213000.0,201825.15140694316,-11174.848593056842,-5.246407790167532,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.2%). Standard mortgage underwriting and acquisition approved.
+925,175000.0,165961.4875992079,-9038.512400792097,-5.164864229024055,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.2%). Standard mortgage underwriting and acquisition approved.
+772,107000.0,137925.03927618053,30925.039276180527,28.901905865589278,STRONG BUY,Low,"Undervalued by 28.9% ($30,925 upside). Acquire immediately below model fair value of $137,925."
+533,39300.0,38590.00490457834,-709.995095421662,-1.8066032962383256,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.8%). Standard mortgage underwriting and acquisition approved.
+29,68500.0,65501.22724156016,-2998.772758439838,-4.377770450277136,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.4%). Standard mortgage underwriting and acquisition approved.
+1051,200141.0,198525.72367180925,-1615.2763281907537,-0.8070691803232489,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.8%). Standard mortgage underwriting and acquisition approved.
+65,317000.0,300549.99462881044,-16450.00537118956,-5.189276142331091,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.2%). Standard mortgage underwriting and acquisition approved.
+765,264132.0,263511.81361059984,-620.1863894001581,-0.2348016860509738,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.2%). Standard mortgage underwriting and acquisition approved.
+1347,283463.0,303013.70006332325,19550.700063323253,6.897090647923451,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.9%). Standard mortgage underwriting and acquisition approved.
+175,243000.0,202729.5406622158,-40270.45933778421,-16.572205488800087,PASS / NEGOTIATE,High,"Overpriced by 16.6% (Overpayment risk: $40,270). Do not purchase at ask price. Submit counter-offer capped at $198,675."
+394,109000.0,106026.76819964522,-2973.2318003547844,-2.7277355966557653,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.7%). Standard mortgage underwriting and acquisition approved.
+620,67000.0,60152.45924837938,-6847.540751620618,-10.220210077045698,PASS / NEGOTIATE,High,"Overpriced by 10.2% (Overpayment risk: $6,848). Do not purchase at ask price. Submit counter-offer capped at $58,949."
+1389,131000.0,131864.59662695168,864.5966269516794,0.6599974251539538,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.7%). Standard mortgage underwriting and acquisition approved.
+115,176000.0,177438.27526235324,1438.2752623532433,0.8172018536097972,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.8%). Standard mortgage underwriting and acquisition approved.
+1417,340000.0,309610.82012128795,-30389.17987871205,-8.937994081974132,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.9%). Standard mortgage underwriting and acquisition approved.
+946,143000.0,142347.6159859351,-652.3840140649118,-0.4562125972481901,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.5%). Standard mortgage underwriting and acquisition approved.
+427,109008.0,103904.22723086711,-5103.772769132891,-4.682016704400494,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.7%). Standard mortgage underwriting and acquisition approved.
+813,157900.0,156633.19826635925,-1266.8017336407502,-0.8022810219384104,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.8%). Standard mortgage underwriting and acquisition approved.
+1402,193879.0,203155.07204101857,9276.072041018575,4.784464558316566,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.8%). Standard mortgage underwriting and acquisition approved.
+1106,179900.0,188534.64282023674,8634.642820236739,4.799690283622423,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.8%). Standard mortgage underwriting and acquisition approved.
+866,248900.0,248083.02978180314,-816.9702181968605,-0.3282323094402814,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.3%). Standard mortgage underwriting and acquisition approved.
+623,168500.0,176447.67432216194,7947.67432216194,4.7167206659714775,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.7%). Standard mortgage underwriting and acquisition approved.
+44,141000.0,140226.6389312026,-773.3610687974142,-0.5484830275158965,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.5%). Standard mortgage underwriting and acquisition approved.
+59,124900.0,131402.531692559,6502.531692558987,5.206190306292223,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.2%). Standard mortgage underwriting and acquisition approved.
+363,118000.0,111898.20460196419,-6101.795398035814,-5.171013049182893,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.2%). Standard mortgage underwriting and acquisition approved.
+398,67000.0,70179.57285033481,3179.5728503348073,4.745631119902698,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.7%). Standard mortgage underwriting and acquisition approved.
+422,113000.0,101653.95471992543,-11346.04528007457,-10.04074803546422,PASS / NEGOTIATE,High,"Overpriced by 10.0% (Overpayment risk: $11,346). Do not purchase at ask price. Submit counter-offer capped at $99,621."
+494,91300.0,81031.03933051342,-10268.96066948658,-11.247492518605236,PASS / NEGOTIATE,High,"Overpriced by 11.2% (Overpayment risk: $10,269). Do not purchase at ask price. Submit counter-offer capped at $79,410."
+416,149500.0,159837.7117870504,10337.711787050386,6.914857382642399,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.9%). Standard mortgage underwriting and acquisition approved.
+585,369900.0,349161.2610031534,-20738.7389968466,-5.606579885603299,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.6%). Standard mortgage underwriting and acquisition approved.
+270,266000.0,260011.12319041922,-5988.876809580775,-2.251457447210818,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.3%). Standard mortgage underwriting and acquisition approved.
+351,190000.0,206251.25355592903,16251.253555929026,8.553291345225803,FAIR VALUE,Moderate,Priced at fair market value (spread: +8.6%). Standard mortgage underwriting and acquisition approved.
+723,135000.0,135724.13371730957,724.1337173095671,0.536395346155235,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.5%). Standard mortgage underwriting and acquisition approved.
+1238,142500.0,134882.0366385294,-7617.963361470611,-5.3459392010320075,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+1264,181000.0,149561.25266778492,-31438.747332215076,-17.369473664207224,PASS / NEGOTIATE,High,"Overpriced by 17.4% (Overpayment risk: $31,439). Do not purchase at ask price. Submit counter-offer capped at $146,570."
+1333,125500.0,128481.76665673638,2981.7666567363776,2.375909686642532,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.4%). Standard mortgage underwriting and acquisition approved.
+274,124500.0,140116.48578908245,15616.48578908245,12.543362079584297,STRONG BUY,Low,"Undervalued by 12.5% ($15,616 upside). Acquire immediately below model fair value of $140,116."
+322,301000.0,277106.61436263705,-23893.385637362953,-7.938001872878058,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.9%). Standard mortgage underwriting and acquisition approved.
+78,136500.0,137388.8191163304,888.8191163304145,0.6511495357731976,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.7%). Standard mortgage underwriting and acquisition approved.
+1019,213490.0,199908.67833546893,-13581.321664531075,-6.3615727502604695,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.4%). Standard mortgage underwriting and acquisition approved.
+275,205000.0,184873.2350224043,-20126.76497759571,-9.817934135412541,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.8%). Standard mortgage underwriting and acquisition approved.
+763,337000.0,310909.2200569004,-26090.779943099595,-7.742071199732817,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.7%). Standard mortgage underwriting and acquisition approved.
+220,204900.0,219067.65076616543,14167.650766165432,6.914422043028518,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.9%). Standard mortgage underwriting and acquisition approved.
+316,260000.0,263449.4717519903,3449.4717519903206,1.3267199046116618,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.3%). Standard mortgage underwriting and acquisition approved.
+1006,163500.0,171393.21050214322,7893.210502143222,4.827651683268026,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.8%). Standard mortgage underwriting and acquisition approved.
+1451,287090.0,263783.00948457944,-23306.990515420563,-8.11835679244159,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.1%). Standard mortgage underwriting and acquisition approved.
+70,244000.0,301923.43804691185,57923.43804691185,23.739113953652396,STRONG BUY,Low,"Undervalued by 23.7% ($57,923 upside). Acquire immediately below model fair value of $301,923."
+15,132000.0,132962.54947550644,962.5494755064428,0.7292041481109415,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.7%). Standard mortgage underwriting and acquisition approved.
+1357,149900.0,160812.31739837636,10912.317398376355,7.279731419864147,FAIR VALUE,Moderate,Priced at fair market value (spread: +7.3%). Standard mortgage underwriting and acquisition approved.
+742,179000.0,170411.67316020888,-8588.326839791116,-4.797947955190568,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.8%). Standard mortgage underwriting and acquisition approved.
+708,179540.0,196307.04724727638,16767.04724727638,9.338892306603753,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.3%). Standard mortgage underwriting and acquisition approved.
+1375,239000.0,254704.24168521137,15704.241685211367,6.57081242059053,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.6%). Standard mortgage underwriting and acquisition approved.
+1001,86000.0,94145.86721666648,8145.867216666476,9.471938624030786,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.5%). Standard mortgage underwriting and acquisition approved.
+1209,290000.0,300722.0477836655,10722.047783665475,3.6972578564363707,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.7%). Standard mortgage underwriting and acquisition approved.
+1084,187500.0,173371.1749486849,-14128.8250513151,-7.535373360701386,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.5%). Standard mortgage underwriting and acquisition approved.
+464,124000.0,128732.07499438735,4732.0749943873525,3.816189511602704,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.8%). Standard mortgage underwriting and acquisition approved.
+1271,185750.0,180939.90337302344,-4810.096626976563,-2.589554038749159,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.6%). Standard mortgage underwriting and acquisition approved.
+1397,137500.0,145364.5435393009,7864.54353930091,5.71966802858248,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.7%). Standard mortgage underwriting and acquisition approved.
+382,213500.0,207035.239002566,-6464.760997434001,-3.0279910995007033,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.0%). Standard mortgage underwriting and acquisition approved.
+1428,119000.0,109112.93654170366,-9887.06345829634,-8.308456687643982,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.3%). Standard mortgage underwriting and acquisition approved.
+731,187500.0,203269.02268409808,15769.022684098076,8.410145431518973,FAIR VALUE,Moderate,Priced at fair market value (spread: +8.4%). Standard mortgage underwriting and acquisition approved.
+1340,123000.0,105612.75979647579,-17387.240203524212,-14.135967645141637,PASS / NEGOTIATE,High,"Overpriced by 14.1% (Overpayment risk: $17,387). Do not purchase at ask price. Submit counter-offer capped at $103,501."
+1215,125000.0,103857.81516385259,-21142.18483614741,-16.913747868917927,PASS / NEGOTIATE,High,"Overpriced by 16.9% (Overpayment risk: $21,142). Do not purchase at ask price. Submit counter-offer capped at $101,781."
+332,284000.0,293101.3398592066,9101.339859206579,3.2046971335234433,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.2%). Standard mortgage underwriting and acquisition approved.
+544,179665.0,206763.99463480068,27098.994634800678,15.083068285309146,STRONG BUY,Low,"Undervalued by 15.1% ($27,099 upside). Acquire immediately below model fair value of $206,764."
+203,149000.0,135469.1914130306,-13530.80858696939,-9.08107958857006,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.1%). Standard mortgage underwriting and acquisition approved.
+1133,239500.0,233068.54493481969,-6431.455065180315,-2.6853674593654757,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.7%). Standard mortgage underwriting and acquisition approved.
+1414,207000.0,180216.20983558876,-26783.790164411243,-12.939029064932967,PASS / NEGOTIATE,High,"Overpriced by 12.9% (Overpayment risk: $26,784). Do not purchase at ask price. Submit counter-offer capped at $176,612."
+429,175000.0,190497.89225474503,15497.892254745035,8.855938431282876,FAIR VALUE,Moderate,Priced at fair market value (spread: +8.9%). Standard mortgage underwriting and acquisition approved.
+1113,134500.0,133765.50203103526,-734.4979689647444,-0.5460951442117059,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.5%). Standard mortgage underwriting and acquisition approved.
+746,236000.0,229667.87192568014,-6332.128074319859,-2.683105116237228,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.7%). Standard mortgage underwriting and acquisition approved.
+590,185900.0,186264.2527958327,364.2527958326973,0.19594018065233854,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.2%). Standard mortgage underwriting and acquisition approved.
+1277,197900.0,198705.72235607143,805.7223560714338,0.4071361071609064,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.4%). Standard mortgage underwriting and acquisition approved.
+1117,130000.0,119822.23980583542,-10177.760194164584,-7.829046303203527,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.8%). Standard mortgage underwriting and acquisition approved.
+591,451950.0,435337.1231041079,-16612.876895892085,-3.675821859916381,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.7%). Standard mortgage underwriting and acquisition approved.
+586,130000.0,116227.1798108122,-13772.820189187798,-10.594477068605999,PASS / NEGOTIATE,High,"Overpriced by 10.6% (Overpayment risk: $13,773). Do not purchase at ask price. Submit counter-offer capped at $113,903."
+1094,129000.0,122367.07216047654,-6632.927839523458,-5.14180452676237,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.1%). Standard mortgage underwriting and acquisition approved.
+198,104000.0,134843.62884915335,30843.62884915335,29.657335431878217,STRONG BUY,Low,"Undervalued by 29.7% ($30,844 upside). Acquire immediately below model fair value of $134,844."
+916,35311.0,27528.355211304355,-7782.644788695645,-22.040284298648142,PASS / NEGOTIATE,High,"Overpriced by 22.0% (Overpayment risk: $7,783). Do not purchase at ask price. Submit counter-offer capped at $26,978."
+716,159500.0,206069.94432920316,46569.944329203165,29.197457259688502,STRONG BUY,Low,"Undervalued by 29.2% ($46,570 upside). Acquire immediately below model fair value of $206,070."
+1044,278000.0,315333.48167709995,37333.481677099946,13.429309955791346,STRONG BUY,Low,"Undervalued by 13.4% ($37,333 upside). Acquire immediately below model fair value of $315,333."
+43,130250.0,132066.05002972583,1816.0500297258259,1.3942802531484266,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.4%). Standard mortgage underwriting and acquisition approved.
+1033,230000.0,241479.9082403678,11479.908240367804,4.991264452333828,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.0%). Standard mortgage underwriting and acquisition approved.
+1031,197000.0,223480.4139062647,26480.4139062647,13.441834470185126,STRONG BUY,Low,"Undervalued by 13.4% ($26,480 upside). Acquire immediately below model fair value of $223,480."
+231,403000.0,344567.8350503972,-58432.1649496028,-14.499296513549082,PASS / NEGOTIATE,High,"Overpriced by 14.5% (Overpayment risk: $58,432). Do not purchase at ask price. Submit counter-offer capped at $337,676."
+527,446261.0,422107.4106149036,-24153.58938509639,-5.412435634101207,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.4%). Standard mortgage underwriting and acquisition approved.
+101,178000.0,175045.6843245061,-2954.315675493912,-1.6597279075808495,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.7%). Standard mortgage underwriting and acquisition approved.
+883,118500.0,140793.99483189298,22293.994831892982,18.813497748432898,STRONG BUY,Low,"Undervalued by 18.8% ($22,294 upside). Acquire immediately below model fair value of $140,794."
+411,145000.0,141357.0275630115,-3642.9724369884934,-2.512394784129995,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.5%). Standard mortgage underwriting and acquisition approved.
+1025,112500.0,115920.8978850508,3420.8978850507992,3.040798120045155,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.0%). Standard mortgage underwriting and acquisition approved.
+907,250000.0,224198.52585823266,-25801.474141767336,-10.320589656706934,PASS / NEGOTIATE,High,"Overpriced by 10.3% (Overpayment risk: $25,801). Do not purchase at ask price. Submit counter-offer capped at $219,715."
+782,187100.0,186160.77655392396,-939.2234460760374,-0.5019900834185127,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.5%). Standard mortgage underwriting and acquisition approved.
+1278,237000.0,243011.8026153035,6011.802615303488,2.5366255760774212,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.5%). Standard mortgage underwriting and acquisition approved.
+621,240000.0,258182.32424167392,18182.324241673923,7.575968434030801,FAIR VALUE,Moderate,Priced at fair market value (spread: +7.6%). Standard mortgage underwriting and acquisition approved.
+669,137500.0,124612.74019501275,-12887.259804987247,-9.37255258544527,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.4%). Standard mortgage underwriting and acquisition approved.
+128,155000.0,139297.81907533103,-15702.180924668966,-10.130439306238042,PASS / NEGOTIATE,High,"Overpriced by 10.1% (Overpayment risk: $15,702). Do not purchase at ask price. Submit counter-offer capped at $136,512."
+530,175000.0,183781.57643640353,8781.576436403528,5.018043677944873,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.0%). Standard mortgage underwriting and acquisition approved.
+910,154300.0,171788.90302924358,17488.90302924358,11.334350634636149,STRONG BUY,Low,"Undervalued by 11.3% ($17,489 upside). Acquire immediately below model fair value of $171,789."
+652,191000.0,196006.50547413874,5006.505474138743,2.6212070545229023,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.6%). Standard mortgage underwriting and acquisition approved.
+1450,136000.0,123099.48513912955,-12900.514860870448,-9.485672691816506,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.5%). Standard mortgage underwriting and acquisition approved.
+1069,135000.0,119948.89743984686,-15051.102560153144,-11.148964859372699,PASS / NEGOTIATE,High,"Overpriced by 11.1% (Overpayment risk: $15,051). Do not purchase at ask price. Submit counter-offer capped at $117,550."
+247,140000.0,155250.28511433827,15250.285114338272,10.893060795955908,STRONG BUY,Low,"Undervalued by 10.9% ($15,250 upside). Acquire immediately below model fair value of $155,250."
+529,200624.0,260271.58480748633,59647.58480748633,29.73103158519735,STRONG BUY,Low,"Undervalued by 29.7% ($59,648 upside). Acquire immediately below model fair value of $260,272."
+923,193000.0,170423.21000358235,-22576.789996417647,-11.6978186509936,PASS / NEGOTIATE,High,"Overpriced by 11.7% (Overpayment risk: $22,577). Do not purchase at ask price. Submit counter-offer capped at $167,015."
+32,179900.0,205236.08922907148,25336.089229071484,14.083429254625615,STRONG BUY,Low,"Undervalued by 14.1% ($25,336 upside). Acquire immediately below model fair value of $205,236."
+809,106000.0,153781.17804049188,47781.17804049188,45.076583057067815,STRONG BUY,Low,"Undervalued by 45.1% ($47,781 upside). Acquire immediately below model fair value of $153,781."
+1027,293077.0,301704.9267600108,8627.926760010829,2.9439112451713467,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.9%). Standard mortgage underwriting and acquisition approved.
+1053,144500.0,139026.2571568433,-5473.74284315671,-3.788057330904297,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.8%). Standard mortgage underwriting and acquisition approved.
+576,145000.0,142013.74917055224,-2986.2508294477593,-2.0594833306536273,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.1%). Standard mortgage underwriting and acquisition approved.
+666,129000.0,187212.17191044774,58212.17191044774,45.12571465926181,STRONG BUY,Low,"Undervalued by 45.1% ($58,212 upside). Acquire immediately below model fair value of $187,212."
+297,239000.0,243690.32150502474,4690.321505024738,1.9624776171651623,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.0%). Standard mortgage underwriting and acquisition approved.
+261,276000.0,347604.16333192505,71604.16333192505,25.94353743910328,STRONG BUY,Low,"Undervalued by 25.9% ($71,604 upside). Acquire immediately below model fair value of $347,604."
+1183,120000.0,153661.83925992993,33661.839259929926,28.051532716608275,STRONG BUY,Low,"Undervalued by 28.1% ($33,662 upside). Acquire immediately below model fair value of $153,662."
+939,244400.0,220040.8624943194,-24359.137505680614,-9.966913873028075,FAIR VALUE,Moderate,Priced at fair market value (spread: -10.0%). Standard mortgage underwriting and acquisition approved.
+309,360000.0,359524.25602853065,-475.74397146934643,-0.13215110318592957,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.1%). Standard mortgage underwriting and acquisition approved.
+163,103200.0,105462.0662815031,2262.0662815030955,2.1919246913789685,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.2%). Standard mortgage underwriting and acquisition approved.
+637,93000.0,87135.43717094441,-5864.562829055591,-6.305981536618914,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.3%). Standard mortgage underwriting and acquisition approved.
+600,275000.0,282674.79042746534,7674.790427465341,2.7908328827146693,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.8%). Standard mortgage underwriting and acquisition approved.
+1174,239000.0,232725.61998871656,-6274.380011283443,-2.6252636030474656,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.6%). Standard mortgage underwriting and acquisition approved.
+371,134432.0,113908.64705400157,-20523.352945998427,-15.266716961734131,PASS / NEGOTIATE,High,"Overpriced by 15.3% (Overpayment risk: $20,523). Do not purchase at ask price. Submit counter-offer capped at $111,630."
+239,113000.0,118607.50197209921,5607.501972099213,4.962391125751516,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.0%). Standard mortgage underwriting and acquisition approved.
+786,139000.0,127233.57080145892,-11766.429198541082,-8.465056977367686,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.5%). Standard mortgage underwriting and acquisition approved.
+1273,177000.0,169855.80393823137,-7144.196061768627,-4.036268961451202,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.0%). Standard mortgage underwriting and acquisition approved.
+1086,83500.0,89298.99294794249,5798.99294794249,6.944901734062863,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.9%). Standard mortgage underwriting and acquisition approved.
+1214,134500.0,127438.66126360651,-7061.338736393489,-5.250065975013746,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+783,165500.0,158530.8213130067,-6969.178686993313,-4.210984100902304,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.2%). Standard mortgage underwriting and acquisition approved.
+644,370878.0,362581.1959180421,-8296.804081957904,-2.237070972653515,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.2%). Standard mortgage underwriting and acquisition approved.
+425,135000.0,142329.8367125885,7329.836712588498,5.42950867599148,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.4%). Standard mortgage underwriting and acquisition approved.
+1054,255000.0,247904.54080351774,-7095.459196482261,-2.782533018228338,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.8%). Standard mortgage underwriting and acquisition approved.
+63,140000.0,152115.63349092778,12115.63349092778,8.654023922091271,FAIR VALUE,Moderate,Priced at fair market value (spread: +8.7%). Standard mortgage underwriting and acquisition approved.
+655,88000.0,86286.3515277468,-1713.648472253204,-1.947327809378641,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.9%). Standard mortgage underwriting and acquisition approved.
+1394,246578.0,225969.01197714772,-20608.98802285228,-8.357999506384301,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.4%). Standard mortgage underwriting and acquisition approved.
+1109,280000.0,308658.17126373947,28658.171263739467,10.235061165621238,STRONG BUY,Low,"Undervalued by 10.2% ($28,658 upside). Acquire immediately below model fair value of $308,658."
+959,155000.0,165604.94326781033,10604.943267810333,6.841898882458279,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.8%). Standard mortgage underwriting and acquisition approved.
+432,122500.0,118898.11819079448,-3601.8818092055153,-2.940311680984094,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.9%). Standard mortgage underwriting and acquisition approved.
+932,320000.0,312720.50543719996,-7279.494562800042,-2.274842050875013,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.3%). Standard mortgage underwriting and acquisition approved.
+1194,158000.0,157712.37341843868,-287.6265815613151,-0.18204214022868043,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.2%). Standard mortgage underwriting and acquisition approved.
+840,140000.0,139747.49671324505,-252.5032867549453,-0.18035949053924666,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.2%). Standard mortgage underwriting and acquisition approved.
+1323,82500.0,101793.59307385675,19293.593073856755,23.386173422856675,STRONG BUY,Low,"Undervalued by 23.4% ($19,294 upside). Acquire immediately below model fair value of $101,794."
+608,359100.0,294346.8198940856,-64753.18010591442,-18.032074660516408,PASS / NEGOTIATE,High,"Overpriced by 18.0% (Overpayment risk: $64,753). Do not purchase at ask price. Submit counter-offer capped at $288,460."
+1198,178000.0,171126.6675266529,-6873.332473347109,-3.861422737835454,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.9%). Standard mortgage underwriting and acquisition approved.
+30,40000.0,94138.73817461714,54138.738174617145,135.34684543654288,STRONG BUY,Low,"Undervalued by 135.3% ($54,139 upside). Acquire immediately below model fair value of $94,139."
+56,172500.0,197342.9078993855,24842.907899385493,14.401685738774198,STRONG BUY,Low,"Undervalued by 14.4% ($24,843 upside). Acquire immediately below model fair value of $197,343."
+1177,115000.0,115667.80783115473,667.8078311547288,0.5807024618736772,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.6%). Standard mortgage underwriting and acquisition approved.
+451,280000.0,249015.7555300942,-30984.244469905796,-11.065801596394927,PASS / NEGOTIATE,High,"Overpriced by 11.1% (Overpayment risk: $30,984). Do not purchase at ask price. Submit counter-offer capped at $244,035."
+559,234000.0,200604.23842912097,-33395.761570879025,-14.27169297900813,PASS / NEGOTIATE,High,"Overpriced by 14.3% (Overpayment risk: $33,396). Do not purchase at ask price. Submit counter-offer capped at $196,592."
+365,147000.0,120741.16732446472,-26258.832675535275,-17.86315147995597,PASS / NEGOTIATE,High,"Overpriced by 17.9% (Overpayment risk: $26,259). Do not purchase at ask price. Submit counter-offer capped at $118,326."
+423,315000.0,307382.71371252136,-7617.286287478637,-2.418186123009091,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.4%). Standard mortgage underwriting and acquisition approved.
+1310,335000.0,304280.9348114232,-30719.065188576817,-9.169870205545319,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.2%). Standard mortgage underwriting and acquisition approved.
+1440,191000.0,241741.38377182456,50741.38377182456,26.566169514044276,STRONG BUY,Low,"Undervalued by 26.6% ($50,741 upside). Acquire immediately below model fair value of $241,741."
+1008,240000.0,243320.34138198892,3320.3413819889247,1.3834755758287185,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.4%). Standard mortgage underwriting and acquisition approved.
+979,139000.0,140640.581568276,1640.5815682759858,1.180274509551069,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.2%). Standard mortgage underwriting and acquisition approved.
+354,140000.0,153920.89804464555,13920.898044645553,9.943498603318252,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.9%). Standard mortgage underwriting and acquisition approved.
+1356,110000.0,92827.7563493338,-17172.243650666205,-15.611130591514733,PASS / NEGOTIATE,High,"Overpriced by 15.6% (Overpayment risk: $17,172). Do not purchase at ask price. Submit counter-offer capped at $90,971."
+306,225000.0,217955.14556352812,-7044.854436471884,-3.1310464162097262,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.1%). Standard mortgage underwriting and acquisition approved.
+1435,174000.0,169911.68989149862,-4088.310108501377,-2.349603510632975,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.3%). Standard mortgage underwriting and acquisition approved.
+99,128950.0,125751.06934326312,-3198.9306567368767,-2.4807527388420914,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.5%). Standard mortgage underwriting and acquisition approved.
+755,172500.0,169538.76599546903,-2961.2340045309684,-1.7166573939309961,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.7%). Standard mortgage underwriting and acquisition approved.
+271,241500.0,180955.3230842091,-60544.676915790886,-25.070259592459994,PASS / NEGOTIATE,High,"Overpriced by 25.1% (Overpayment risk: $60,545). Do not purchase at ask price. Submit counter-offer capped at $177,336."
+240,262500.0,252115.84395658338,-10384.156043416617,-3.955868968920616,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.0%). Standard mortgage underwriting and acquisition approved.
+598,217500.0,225458.18225130928,7958.1822513092775,3.658934368418058,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.7%). Standard mortgage underwriting and acquisition approved.
+1092,136500.0,173612.7913778486,37112.791377848596,27.188858152270036,STRONG BUY,Low,"Undervalued by 27.2% ($37,113 upside). Acquire immediately below model fair value of $173,613."
+358,130000.0,116570.53559106124,-13429.464408938758,-10.330357237645199,PASS / NEGOTIATE,High,"Overpriced by 10.3% (Overpayment risk: $13,429). Do not purchase at ask price. Submit counter-offer capped at $114,239."
+984,126000.0,111523.74346963881,-14476.256530361192,-11.489092484413645,PASS / NEGOTIATE,High,"Overpriced by 11.5% (Overpayment risk: $14,476). Do not purchase at ask price. Submit counter-offer capped at $109,293."
+1405,275000.0,292320.47057964455,17320.47057964455,6.298352938052563,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.3%). Standard mortgage underwriting and acquisition approved.
+707,254000.0,212817.175987078,-41182.82401292201,-16.213710241307876,PASS / NEGOTIATE,High,"Overpriced by 16.2% (Overpayment risk: $41,183). Do not purchase at ask price. Submit counter-offer capped at $208,561."
+599,151000.0,127383.15135097069,-23616.848649029314,-15.64029711856246,PASS / NEGOTIATE,High,"Overpriced by 15.6% (Overpayment risk: $23,617). Do not purchase at ask price. Submit counter-offer capped at $124,835."
+1429,182900.0,190562.6310941716,7662.631094171607,4.189519461001426,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.2%). Standard mortgage underwriting and acquisition approved.
+1344,155835.0,198406.6213733693,42571.6213733693,27.318395336971346,STRONG BUY,Low,"Undervalued by 27.3% ($42,572 upside). Acquire immediately below model fair value of $198,407."
+339,155000.0,143402.67767083494,-11597.322329165065,-7.48214343817101,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.5%). Standard mortgage underwriting and acquisition approved.
+951,119900.0,117290.9880033397,-2609.0119966602942,-2.1759899888743073,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.2%). Standard mortgage underwriting and acquisition approved.
+1432,64500.0,81177.78154359892,16677.781543598918,25.85702564899057,STRONG BUY,Low,"Undervalued by 25.9% ($16,678 upside). Acquire immediately below model fair value of $81,178."
+1104,106000.0,107793.36573103652,1793.3657310365234,1.691854463242003,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.7%). Standard mortgage underwriting and acquisition approved.
+711,102776.0,102502.90466445338,-273.095335546619,-0.26571897675198397,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.3%). Standard mortgage underwriting and acquisition approved.
+1049,84900.0,94839.30590905568,9939.305909055678,11.707074097827654,STRONG BUY,Low,"Undervalued by 11.7% ($9,939 upside). Acquire immediately below model fair value of $94,839."
+310,165600.0,165251.66396142024,-348.33603857975686,-0.21034784938391113,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.2%). Standard mortgage underwriting and acquisition approved.
+572,224500.0,234478.38285853004,9978.382858530036,4.444713968164827,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.4%). Standard mortgage underwriting and acquisition approved.
+917,135000.0,135521.99657091394,521.996570913936,0.3866641266029156,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.4%). Standard mortgage underwriting and acquisition approved.
+603,151000.0,147753.7897003206,-3246.2102996793983,-2.1498081454830453,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.1%). Standard mortgage underwriting and acquisition approved.
+289,153575.0,139851.78717933496,-13723.212820665038,-8.935837747462177,FAIR VALUE,Moderate,Priced at fair market value (spread: -8.9%). Standard mortgage underwriting and acquisition approved.
+428,195400.0,208626.17909073894,13226.179090738937,6.768771284922691,FAIR VALUE,Moderate,Priced at fair market value (spread: +6.8%). Standard mortgage underwriting and acquisition approved.
+1085,147000.0,162253.93934490706,15253.939344907063,10.376829486331335,STRONG BUY,Low,"Undervalued by 10.4% ($15,254 upside). Acquire immediately below model fair value of $162,254."
+208,277000.0,245435.91797725274,-31564.082022747258,-11.394975459475544,PASS / NEGOTIATE,High,"Overpriced by 11.4% (Overpayment risk: $31,564). Do not purchase at ask price. Submit counter-offer capped at $240,527."
+662,110000.0,139368.52732053312,29368.527320533118,26.69866120048465,STRONG BUY,Low,"Undervalued by 26.7% ($29,369 upside). Acquire immediately below model fair value of $139,369."
+353,105900.0,106867.96176810432,967.9617681043164,0.9140337753581836,FAIR VALUE,Moderate,Priced at fair market value (spread: +0.9%). Standard mortgage underwriting and acquisition approved.
+324,242000.0,248583.50118786312,6583.501187863119,2.720455036307074,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.7%). Standard mortgage underwriting and acquisition approved.
+237,194500.0,221924.36022276036,27424.360222760355,14.099928135095299,STRONG BUY,Low,"Undervalued by 14.1% ($27,424 upside). Acquire immediately below model fair value of $221,924."
+58,438780.0,455778.0192445766,16998.01924457657,3.873927536482194,FAIR VALUE,Moderate,Priced at fair market value (spread: +3.9%). Standard mortgage underwriting and acquisition approved.
+1158,235128.0,211888.76343848757,-23239.23656151243,-9.883653397941728,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.9%). Standard mortgage underwriting and acquisition approved.
+536,188000.0,204852.5757929163,16852.575792916294,8.96413606006186,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.0%). Standard mortgage underwriting and acquisition approved.
+367,165000.0,152768.7014736299,-12231.298526370112,-7.412908197800068,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.4%). Standard mortgage underwriting and acquisition approved.
+1147,174500.0,183210.53991519636,8710.539915196365,4.991713418450639,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.0%). Standard mortgage underwriting and acquisition approved.
+23,129900.0,141956.9076039785,12056.9076039785,9.281684067727868,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.3%). Standard mortgage underwriting and acquisition approved.
+107,115000.0,84659.28357677514,-30340.71642322486,-26.383231672369444,PASS / NEGOTIATE,High,"Overpriced by 26.4% (Overpayment risk: $30,341). Do not purchase at ask price. Submit counter-offer capped at $82,966."
+747,265979.0,219302.36990948225,-46676.63009051775,-17.548990743824795,PASS / NEGOTIATE,High,"Overpriced by 17.5% (Overpayment risk: $46,677). Do not purchase at ask price. Submit counter-offer capped at $214,916."
+728,110000.0,151570.3032204552,41570.303220455186,37.79118474586835,STRONG BUY,Low,"Undervalued by 37.8% ($41,570 upside). Acquire immediately below model fair value of $151,570."
+361,145000.0,147159.54950899805,2159.549508998054,1.4893444889641754,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.5%). Standard mortgage underwriting and acquisition approved.
+760,127500.0,123820.98657138321,-3679.0134286167886,-2.885500728326893,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.9%). Standard mortgage underwriting and acquisition approved.
+539,272000.0,240203.7047990308,-31796.29520096921,-11.689814412121033,PASS / NEGOTIATE,High,"Overpriced by 11.7% (Overpayment risk: $31,796). Do not purchase at ask price. Submit counter-offer capped at $235,400."
+1141,197500.0,187000.9914564959,-10499.008543504111,-5.3159536929134745,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+1176,119500.0,116120.25747503914,-3379.742524960864,-2.8282364225613925,FAIR VALUE,Moderate,Priced at fair market value (spread: -2.8%). Standard mortgage underwriting and acquisition approved.
+1388,377500.0,357546.68331603194,-19953.316683968063,-5.28564680370015,FAIR VALUE,Moderate,Priced at fair market value (spread: -5.3%). Standard mortgage underwriting and acquisition approved.
+781,175900.0,173668.08986037475,-2231.9101396252518,-1.2688516996164023,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.3%). Standard mortgage underwriting and acquisition approved.
+1122,112000.0,61180.804021150514,-50819.195978849486,-45.374282123972755,PASS / NEGOTIATE,High,"Overpriced by 45.4% (Overpayment risk: $50,819). Do not purchase at ask price. Submit counter-offer capped at $59,957."
+1095,176432.0,171020.75055475003,-5411.249445249967,-3.067045346224022,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.1%). Standard mortgage underwriting and acquisition approved.
+1129,140000.0,141504.3440839689,1504.3440839688992,1.0745314885492137,FAIR VALUE,Moderate,Priced at fair market value (spread: +1.1%). Standard mortgage underwriting and acquisition approved.
+233,128200.0,126381.04840041594,-1818.951599584063,-1.4188390012356187,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.4%). Standard mortgage underwriting and acquisition approved.
+426,275000.0,244724.6216106541,-30275.37838934589,-11.009228505216687,PASS / NEGOTIATE,High,"Overpriced by 11.0% (Overpayment risk: $30,275). Do not purchase at ask price. Submit counter-offer capped at $239,830."
+196,311872.0,342014.8052125346,30142.805212534615,9.665120694558862,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.7%). Standard mortgage underwriting and acquisition approved.
+1250,244000.0,288342.30406575836,44342.30406575836,18.173075436786217,STRONG BUY,Low,"Undervalued by 18.2% ($44,342 upside). Acquire immediately below model fair value of $288,342."
+81,153500.0,178121.76310920148,24621.763109201478,16.040236553225718,STRONG BUY,Low,"Undervalued by 16.0% ($24,622 upside). Acquire immediately below model fair value of $178,122."
+1368,144000.0,134985.91663630115,-9014.083363698854,-6.25978011367976,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.3%). Standard mortgage underwriting and acquisition approved.
+1447,240000.0,251062.57255140838,11062.572551408375,4.60940522975349,FAIR VALUE,Moderate,Priced at fair market value (spread: +4.6%). Standard mortgage underwriting and acquisition approved.
+111,180000.0,172890.90580715222,-7109.094192847784,-3.9494967738043245,FAIR VALUE,Moderate,Priced at fair market value (spread: -3.9%). Standard mortgage underwriting and acquisition approved.
+1331,132500.0,130745.02965974939,-1754.970340250613,-1.3245059171702738,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.3%). Standard mortgage underwriting and acquisition approved.
+744,180000.0,225272.88733369546,45272.88733369546,25.15160407427525,STRONG BUY,Low,"Undervalued by 25.2% ($45,273 upside). Acquire immediately below model fair value of $225,273."
+937,253000.0,229352.12248470233,-23647.877515297674,-9.34698716019671,FAIR VALUE,Moderate,Priced at fair market value (spread: -9.3%). Standard mortgage underwriting and acquisition approved.
+344,85000.0,75027.53627258472,-9972.463727415277,-11.732310267547385,PASS / NEGOTIATE,High,"Overpriced by 11.7% (Overpayment risk: $9,972). Do not purchase at ask price. Submit counter-offer capped at $73,527."
+1231,132500.0,132335.41373738504,-164.58626261496102,-0.12421604725657434,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.1%). Standard mortgage underwriting and acquisition approved.
+954,127500.0,130884.48109573184,3384.4810957318405,2.6544949770445805,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.7%). Standard mortgage underwriting and acquisition approved.
+935,79900.0,102175.16165062986,22275.16165062986,27.878800563992318,STRONG BUY,Low,"Undervalued by 27.9% ($22,275 upside). Acquire immediately below model fair value of $102,175."
+350,318061.0,316061.0254271822,-1999.974572817795,-0.628802202350428,FAIR VALUE,Moderate,Priced at fair market value (spread: -0.6%). Standard mortgage underwriting and acquisition approved.
+589,79500.0,87179.06570575584,7679.065705755842,9.659202145604832,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.7%). Standard mortgage underwriting and acquisition approved.
+1082,192000.0,188632.19725640217,-3367.8027435978292,-1.7540639289572026,FAIR VALUE,Moderate,Priced at fair market value (spread: -1.8%). Standard mortgage underwriting and acquisition approved.
+948,192500.0,203748.85891604354,11248.858916043537,5.84356307326937,FAIR VALUE,Moderate,Priced at fair market value (spread: +5.8%). Standard mortgage underwriting and acquisition approved.
+1449,92000.0,101059.4182499593,9059.4182499593,9.84719374995576,FAIR VALUE,Moderate,Priced at fair market value (spread: +9.8%). Standard mortgage underwriting and acquisition approved.
+989,197000.0,202474.48605157458,5474.486051574582,2.77892692973329,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.8%). Standard mortgage underwriting and acquisition approved.
+1313,333168.0,318364.5215552924,-14803.47844470758,-4.443247384114795,FAIR VALUE,Moderate,Priced at fair market value (spread: -4.4%). Standard mortgage underwriting and acquisition approved.
+478,297000.0,303986.5191120844,6986.51911208441,2.352363337402158,FAIR VALUE,Moderate,Priced at fair market value (spread: +2.4%). Standard mortgage underwriting and acquisition approved.
+1247,169900.0,144671.45643380503,-25228.543566194974,-14.849054482751603,PASS / NEGOTIATE,High,"Overpriced by 14.8% (Overpayment risk: $25,229). Do not purchase at ask price. Submit counter-offer capped at $141,778."
+1410,230000.0,212165.91736752697,-17834.08263247303,-7.753948970640448,FAIR VALUE,Moderate,Priced at fair market value (spread: -7.8%). Standard mortgage underwriting and acquisition approved.
+479,89471.0,144176.3656796666,54705.365679666604,61.14312534750545,STRONG BUY,Low,"Undervalued by 61.1% ($54,705 upside). Acquire immediately below model fair value of $144,176."
+1361,260000.0,291564.2557391939,31564.255739193875,12.140098361228413,STRONG BUY,Low,"Undervalued by 12.1% ($31,564 upside). Acquire immediately below model fair value of $291,564."
+1415,175900.0,213151.74557615508,37251.74557615508,21.17779737132182,STRONG BUY,Low,"Undervalued by 21.2% ($37,252 upside). Acquire immediately below model fair value of $213,152."
+651,108000.0,101428.95122885937,-6571.048771140631,-6.084304417722806,FAIR VALUE,Moderate,Priced at fair market value (spread: -6.1%). Standard mortgage underwriting and acquisition approved.
+722,124500.0,111355.67788417812,-13144.32211582188,-10.557688446443278,PASS / NEGOTIATE,High,"Overpriced by 10.6% (Overpayment risk: $13,144). Do not purchase at ask price. Submit counter-offer capped at $109,129."

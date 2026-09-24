@@ -73,14 +73,22 @@ def make_predictions() -> None:
     output_df.to_csv(config.PREDICTIONS_PATH, index=False)
     print(f"Predictions successfully written to {config.PREDICTIONS_PATH}")
     
-    print("\n" + "-" * 40)
-    print("Prediction Stats Summary:")
-    print("-" * 40)
-    print(f"Total Properties Predicted: {len(output_df)}")
-    print(f"Average Predicted Price:   ${output_df[config.TARGET_COL].mean():,.2f}")
-    print(f"Min Predicted Price:       ${output_df[config.TARGET_COL].min():,.2f}")
-    print(f"Max Predicted Price:       ${output_df[config.TARGET_COL].max():,.2f}")
-    print("-" * 40)
+    print("\n" + "=" * 50)
+    print("INFERENCE BUSINESS KPI SUMMARY")
+    print("=" * 50)
+    total_count = len(output_df)
+    total_port_val = output_df[config.TARGET_COL].sum()
+    avg_price = output_df[config.TARGET_COL].mean()
+    median_price = output_df[config.TARGET_COL].median()
+    savings = total_count * 400.0  # $400 appraisal savings per automated valuation
+    
+    print(f"Total Properties Evaluated (Orders):     {total_count:,} units")
+    print(f"Total Portfolio Valuation (Asset Scale):  ${total_port_val:,.2f}")
+    print(f"Average Property Valuation (AOV):         ${avg_price:,.2f}")
+    print(f"Median Property Valuation:               ${median_price:,.2f}")
+    print(f"Automated Appraisal Cost Savings:        ${savings:,.2f}")
+    print(f"Price Range:                             ${output_df[config.TARGET_COL].min():,.2f} - ${output_df[config.TARGET_COL].max():,.2f}")
+    print("=" * 50)
 
 if __name__ == "__main__":
     make_predictions()

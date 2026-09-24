@@ -1,0 +1,96 @@
+{
+    "volume_and_scale": {
+        "total_properties_evaluated": 292,
+        "total_portfolio_actual_usd": 52959880.0,
+        "total_portfolio_predicted_usd": 53063097.05027862,
+        "average_property_valuation_aov": 181722.9351036939,
+        "median_property_valuation": 170161.68152585375,
+        "estimated_appraisal_cost_savings_usd": 116800.0,
+        "estimated_hours_saved": 1168.0
+    },
+    "accuracy_and_quality_sla": {
+        "within_5_percent_precision": 42.465753424657535,
+        "within_10_percent_precision": 69.52054794520548,
+        "within_15_percent_precision": 82.87671232876713,
+        "within_20_percent_precision": 89.38356164383562,
+        "high_risk_miss_rate": 10.616438356164384,
+        "mean_absolute_percentage_error_mape": 9.260731850520026,
+        "median_absolute_percentage_error_mdape": 6.217232810594357
+    },
+    "investment_arbitrage_and_profit": {
+        "undervalued_opportunities_count": 47,
+        "undervalued_opportunities_pct": 16.095890410958905,
+        "gross_arbitrage_profit_potential_usd": 1572846.4104408585,
+        "avg_arbitrage_upside_pct": 24.52130909704507,
+        "overvalued_flagged_count": 42,
+        "overvalued_flagged_pct": 14.383561643835616,
+        "downside_risk_exposure_usd": 1186870.373970699,
+        "fairly_priced_count": 203,
+        "fairly_priced_pct": 69.52054794520548
+    },
+    "price_tier_breakdown": [
+        {
+            "tier": "Entry-Level (<$130k)",
+            "count": 75,
+            "pct_of_total": 25.684931506849317,
+            "avg_price": 105693.54666666666,
+            "mape": 14.09514253160846
+        },
+        {
+            "tier": "Mid-Market ($130k-$250k)",
+            "count": 166,
+            "pct_of_total": 56.849315068493155,
+            "avg_price": 176672.0060240964,
+            "mape": 7.643156583973837
+        },
+        {
+            "tier": "Premium/Luxury (>$250k)",
+            "count": 51,
+            "pct_of_total": 17.465753424657535,
+            "avg_price": 307947.2745098039,
+            "mape": 7.4163532851285465
+        }
+    ],
+    "yearly_market_growth": [
+        {
+            "year": 2006,
+            "transactions": 56,
+            "total_volume_usd": 10481753.0,
+            "avg_price_usd": 187174.1607142857,
+            "volume_growth_pct": null,
+            "price_growth_pct": null
+        },
+        {
+            "year": 2007,
+            "transactions": 70,
+            "total_volume_usd": 12485348.0,
+            "avg_price_usd": 178362.11428571428,
+            "volume_growth_pct": 25.0,
+            "price_growth_pct": -4.7079395975081635
+        },
+        {
+            "year": 2008,
+            "transactions": 57,
+            "total_volume_usd": 9660538.0,
+            "avg_price_usd": 169483.12280701756,
+            "volume_growth_pct": -18.571428571428573,
+            "price_growth_pct": -4.978070322979952
+        },
+        {
+            "year": 2009,
+            "transactions": 70,
+            "total_volume_usd": 14069447.0,
+            "avg_price_usd": 200992.1,
+            "volume_growth_pct": 22.807017543859647,
+            "price_growth_pct": 18.59121821165653
+        },
+        {
+            "year": 2010,
+            "transactions": 39,
+            "total_volume_usd": 6262794.0,
+            "avg_price_usd": 160584.46153846153,
+            "volume_growth_pct": -44.285714285714285,
+            "price_growth_pct": -20.10409287804768
+        }
+    ]
+}

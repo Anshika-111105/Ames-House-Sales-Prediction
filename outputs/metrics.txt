@@ -2,13 +2,13 @@
 Ames House Price Prediction - Model Evaluation Report
 ============================================================
 
-                                 Model Polynomials SelectKBest       R2          MAE          MSE         RMSE      CV RMSE
-              Linear Regression (Base)          No          No 0.704926 18350.909439 1.629910e+09 40372.141941 26104.822367
-              Ridge Regression (Tuned)          No          No 0.918223 15339.822042 4.517164e+08 21253.620800 23110.088898
-              Lasso Regression (Tuned)          No          No 0.918417 15182.559893 4.506426e+08 21228.343810 23679.021099
-Linear Regression + Poly + SelectKBest         Yes        k=50 0.867547 19271.656762 7.316332e+08 27048.718286 27118.762556
-    Ridge + Poly + SelectKBest (Tuned)         Yes        k=50 0.869189 19246.227536 7.225665e+08 26880.597631 26807.446179
-    Lasso + Poly + SelectKBest (Tuned)         Yes        k=50 0.864397 19456.473259 7.490315e+08 27368.440758 26787.282744
+                                 Model Polynomials SelectKBest            R2          MAE          MSE         RMSE      CV RMSE
+              Linear Regression (Base)          No          No -2.258451e+15 2.884750e+11 1.247507e+25 3.532006e+12 1.098968e+14
+              Ridge Regression (Tuned)          No          No  9.182225e-01 1.533982e+04 4.517164e+08 2.125362e+04 2.311009e+04
+              Lasso Regression (Tuned)          No          No  9.184169e-01 1.518256e+04 4.506426e+08 2.122834e+04 2.367902e+04
+Linear Regression + Poly + SelectKBest         Yes        k=50  8.675472e-01 1.927166e+04 7.316332e+08 2.704872e+04 2.711876e+04
+    Ridge + Poly + SelectKBest (Tuned)         Yes        k=50  8.691886e-01 1.924623e+04 7.225665e+08 2.688060e+04 2.680745e+04
+    Lasso + Poly + SelectKBest (Tuned)         Yes        k=50  8.643974e-01 1.945647e+04 7.490315e+08 2.736844e+04 2.678728e+04
 
 ============================================================
 BEST PERFORMING MODEL DETAILS
